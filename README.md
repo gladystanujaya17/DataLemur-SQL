@@ -1,2 +1,2 @@
 # DataLemur-SQL
-DataLemur Practice
+DataLemur Practice using PostgreSQL
